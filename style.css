@@ -1,0 +1,17 @@
+.container{
+    width: 100%;
+}
+
+#search{
+    margin-bottom: 10px;
+}
+
+#gifBtn{
+    margin-top: 10px;
+}
+
+footer{
+    
+    text-align: center;
+    color: #fff;
+}
